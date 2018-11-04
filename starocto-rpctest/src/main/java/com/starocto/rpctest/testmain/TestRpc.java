@@ -10,7 +10,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
  * ---------------------------------------
  * Desc   :
  */
-public class testRpc {
+public class TestRpc {
 
     public static void main(String[] args) {
         ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("dao-api.xml");
